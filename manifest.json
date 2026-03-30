@@ -1,0 +1,19 @@
+{
+  "name": "Andrómeda-SHOCK 2",
+  "short_name": "AS-2",
+  "description": "Protocolo CRT-PHR a pie de cama · JAMA 2025",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1A3A6B",
+  "theme_color": "#1A3A6B",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
